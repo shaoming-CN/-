@@ -3,7 +3,7 @@
 主要分为以下三个部分：
 
  ## **1. 图像预处理部分**
- ![image](https://github.com/shaoming-CN/-/blob/main/1616580568(1).jpg)
+ ![image]()
  ## **2. 立体校正后的霍夫提取**
 
  ![image](https://github.com/shaoming-CN/-/blob/main/1616582384(1).jpg)
