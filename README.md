@@ -9,7 +9,7 @@
   b.自适应阈值
   
   c.开操作
-  https://github.com/shaoming-CN/-/blob/main/1616580568(1).jpg
+
 2.立体校正
 
 3.在立体校正的基础上进行视差原理恢复三维坐标
